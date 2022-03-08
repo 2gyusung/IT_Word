@@ -1,0 +1,3 @@
+Vs code js 
+cd + 찾고 싶은 파일(tab 키)
+node + tab 키
